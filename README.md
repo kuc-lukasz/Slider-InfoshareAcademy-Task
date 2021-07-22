@@ -1,9 +1,9 @@
 # Slider-InfoshareAcademy-Task
 
-# Video from project 
+Video from project 
 Link -> https://youtu.be/Oks1HnPAuTk
 
-# In the first case, the exam task.
+In the first case, the exam task.
 
 What I had to do:
 
