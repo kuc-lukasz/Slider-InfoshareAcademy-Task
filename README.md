@@ -1,5 +1,7 @@
 # Slider-InfoshareAcademy-Task
 
+<img src="/slider.png">
+
 Video from project 
 Link -> https://youtu.be/Oks1HnPAuTk
 
@@ -21,5 +23,5 @@ Implement an interval every 3 seconds for the next photo
 Stopping the interval when you click any button
 
 #Project image You can look in main folder slider.png file: 
-<img src="/slider.png">
+
 
